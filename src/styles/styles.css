@@ -1,0 +1,22 @@
+.controls a{
+    padding:3px;
+    border:1px solid gray;
+    margin:2px;
+    color:black;
+    text-decoration:none
+}
+
+.active{
+    background: #888;
+    color: #FFF !important;
+}
+
+#list{
+  width: 100%;
+  margin: 10px;
+}
+
+li {
+  width: 50%;
+  float: left;
+}
